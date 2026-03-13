@@ -1,0 +1,21 @@
+{
+  "scenario": "go_depth25_err50",
+  "battery": 2,
+  "lang": "go",
+  "depth": 25,
+  "error_rate": 50,
+  "vus": 50,
+  "p50_ms": 1.9676,
+  "p99_ms": 5.3478,
+  "avg_ms": 2.101379586224171,
+  "p90_ms": 3.0524,
+  "min_ms": 0,
+  "max_ms": 43.905,
+  "rps": 22851.439220867,
+  "total_reqs": 1371128,
+  "paradigm": "value",
+  "cpu_avg_pct": 80.87,
+  "cpu_max_pct": 92.57,
+  "ram_avg_mb": 8.93,
+  "ram_max_mb": 11.69
+}

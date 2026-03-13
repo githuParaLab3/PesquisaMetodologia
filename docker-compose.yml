@@ -1,0 +1,40 @@
+services:
+  java:
+    build:
+      context: ./java
+      dockerfile: Dockerfile
+    container_name: bench-java
+    ports:
+      - "8080:8080"
+    mem_limit: 512m
+    cpus: 1.0
+
+  nodejs:
+    build:
+      context: ./nodejs
+      dockerfile: Dockerfile
+    container_name: bench-nodejs
+    ports:
+      - "8081:8081"
+    mem_limit: 512m
+    cpus: 1.0
+
+  go:
+    build:
+      context: ./go
+      dockerfile: Dockerfile
+    container_name: bench-go
+    ports:
+      - "8082:8082"
+    mem_limit: 512m
+    cpus: 1.0
+
+  rust:
+    build:
+      context: ./rust
+      dockerfile: Dockerfile
+    container_name: bench-rust
+    ports:
+      - "8083:8083"
+    mem_limit: 512m
+    cpus: 1.0

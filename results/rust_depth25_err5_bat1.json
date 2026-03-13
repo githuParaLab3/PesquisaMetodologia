@@ -1,0 +1,21 @@
+{
+  "scenario": "rust_depth25_err5",
+  "battery": 1,
+  "lang": "rust",
+  "depth": 25,
+  "error_rate": 5,
+  "vus": 50,
+  "p50_ms": 2.006,
+  "p99_ms": 4.8062,
+  "avg_ms": 2.1079709849314257,
+  "p90_ms": 2.9923,
+  "min_ms": 0,
+  "max_ms": 38.3484,
+  "rps": 22794.082199412413,
+  "total_reqs": 1367679,
+  "paradigm": "value",
+  "cpu_avg_pct": 57.41,
+  "cpu_max_pct": 80.05,
+  "ram_avg_mb": 3.15,
+  "ram_max_mb": 4.62
+}

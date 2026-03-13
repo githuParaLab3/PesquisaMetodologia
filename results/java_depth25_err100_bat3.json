@@ -1,0 +1,21 @@
+{
+  "scenario": "java_depth25_err100",
+  "battery": 3,
+  "lang": "java",
+  "depth": 25,
+  "error_rate": 100,
+  "vus": 50,
+  "p50_ms": 22.3081,
+  "p99_ms": 64.08459600000006,
+  "avg_ms": 25.126936585037093,
+  "p90_ms": 35.86032,
+  "min_ms": 1.0392,
+  "max_ms": 320.5362,
+  "rps": 1852.5803053317852,
+  "total_reqs": 111193,
+  "paradigm": "exception",
+  "cpu_avg_pct": 76.8,
+  "cpu_max_pct": 100.69,
+  "ram_avg_mb": 213.21,
+  "ram_max_mb": 213.7
+}

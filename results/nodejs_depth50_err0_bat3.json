@@ -1,0 +1,21 @@
+{
+  "scenario": "nodejs_depth50_err0",
+  "battery": 3,
+  "lang": "nodejs",
+  "depth": 50,
+  "error_rate": 0,
+  "vus": 50,
+  "p50_ms": 8.338,
+  "p99_ms": 29.0264,
+  "avg_ms": 9.946789526499074,
+  "p90_ms": 16.249080000000003,
+  "min_ms": 1.1231,
+  "max_ms": 228.5197,
+  "rps": 4980.398966521261,
+  "total_reqs": 298859,
+  "paradigm": "exception",
+  "cpu_avg_pct": 97.52,
+  "cpu_max_pct": 102.18,
+  "ram_avg_mb": 29.78,
+  "ram_max_mb": 30.75
+}
