@@ -1,7 +1,6 @@
 # PesquisaMetodologia
 ## O Custo Computacional da Falha — IFBA / Ciência da Computação
-**João Vitor Nunes Santos de Albuquerque Menezes**
-Orientadora: Profa. Dra. Ana Paula Guimarães
+
 
 ---
 
